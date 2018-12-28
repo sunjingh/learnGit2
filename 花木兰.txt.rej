@@ -1,0 +1,13 @@
+diff a/花木兰.txt b/花木兰.txt	(rejected hunks)
+@@ -1,5 +1,9 @@
+ qwerw
+ 
+ 
++<<<<<<< HEAD
+ 
+-��Ҳ����
+\ No newline at end of file
++��Ҳ����
++=======
++���ֽ�����������
++>>>>>>> 49b8f4e44c1e0eeb18c66153c1763472efe14efb
